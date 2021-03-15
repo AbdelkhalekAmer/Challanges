@@ -1,4 +1,3 @@
-
 class ANSWERS:
     YES = 'YES'
     NO = 'NO'
